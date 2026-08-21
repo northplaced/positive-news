@@ -33,6 +33,15 @@ CATEGORIES = [
         ],
     },
     {
+        "key": "robotiikka_ja_tekoaly",
+        "label": "Robotiikka ja tekoäly",
+        "sources": [
+            ("Iltasanomat", "fi", "https://www.is.fi/rss/digitoday.xml", "general"),
+            ("Iltalehti", "fi", "https://www.iltalehti.fi/rss/bitti.xml", "general"),
+            ("Postimees", "et", "https://tehnika.postimees.ee/rss", "general"),
+        ],
+    },
+    {
         "key": "terveys",
         "label": "Terveys ja hyvinvointi",
         "sources": [
@@ -41,15 +50,6 @@ CATEGORIES = [
             ("Aamulehti", "fi", "https://www.aamulehti.fi/rss/terveys.xml", "topic"),
             ("Postimees", "et", "https://tervis.postimees.ee/rss", "topic"),
             ("Õhtuleht", "et", "https://www.ohtuleht.ee/tervis/rss", "topic"),
-        ],
-    },
-    {
-        "key": "robotiikka_ja_tekoaly",
-        "label": "Robotiikka ja tekoäly",
-        "sources": [
-            ("Iltasanomat", "fi", "https://www.is.fi/rss/digitoday.xml", "general"),
-            ("Iltalehti", "fi", "https://www.iltalehti.fi/rss/bitti.xml", "general"),
-            ("Postimees", "et", "https://tehnika.postimees.ee/rss", "general"),
         ],
     },
     {
