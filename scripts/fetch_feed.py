@@ -47,9 +47,9 @@ CATEGORIES = [
         "key": "robotiikka_ja_tekoaly",
         "label": "Robotiikka ja tekoäly",
         "sources": [
-            ("Iltasanomat", "fi", "https://www.is.fi/rss/digitoday.xml", "topic"),
-            ("Iltalehti", "fi", "https://www.iltalehti.fi/rss/bitti.xml", "topic"),
-            ("Postimees", "et", "https://tehnika.postimees.ee/rss", "topic"),
+            ("Iltasanomat", "fi", "https://www.is.fi/rss/digitoday.xml", "general"),
+            ("Iltalehti", "fi", "https://www.iltalehti.fi/rss/bitti.xml", "general"),
+            ("Postimees", "et", "https://tehnika.postimees.ee/rss", "general"),
         ],
     },
     {
@@ -108,44 +108,59 @@ CATEGORIES = [
 
 # Drop any item whose title or summary matches these (case-insensitive, word-boundary-ish).
 NEGATIVE_KEYWORDS_FI = [
-    "sota", "sodan", "sotaa", "hyökkäys", "hyökkäsi", "kuoli", "kuolivat", "kuolema",
-    "kuollut", "surma", "murha", "tappoi", "tapettiin", "rikos", "rikollinen",
-    "onnettomuus", "tulipalo", "katastrofi", "pandemia", "kriisi", "skandaali",
+    "sota", "sodan", "sotaa", "hyökkäys", "hyökkäsi", "kuol", "kuolema",
+    "surma", "murha", "tappoi", "tapettiin", "rikos", "rikollis",
+    "onnettomuus", "tulipalo", "metsäpalo", "katastrofi", "pandemia", "kriisi", "skandaali",
     "raiskaus", "väkivalta", "ammuskelu", "räjähdys", "terrori", "sieppaus",
-    "kaappaus", "itsemurha", "loukkaantui", "loukkaantuivat", "vangittiin",
-    "pidätettiin", "syyte", "oikeudenkäynti", "eroaa", "erosi", "irtisanomiset",
-    "konkurssi", "korruptio",
+    "kaappaus", "itsemurha", "loukkaantu", "vangittiin",
+    "pidätettiin", "syyte", "oikeudenkäynti", "avioero", "erosi tehtävästään",
+    "irtisanomiset", "konkurssi", "korruptio",
+    "doping", "dopingista", "kärähti", "kärysi", "kilpailukielto",
+    "sairastui", "sairastuivat", "epidemia", "tuhkarokko",
+    "tappio", "tappiollinen", "turvapaikan", "ulosajo",
+    "seksi", "seksuaali", "narsist",
+    "sakko", "sakotettiin", "tietovuoto", "tietomurto",
 ]
 NEGATIVE_KEYWORDS_ET = [
     "sõda", "sõja", "rünnak", "ründas", "suri", "surid", "surm", "hukkus", "hukkusid",
     "mõrv", "tappis", "tapeti", "kuritegu", "kurjategija", "õnnetus", "tulekahju",
     "katastroof", "pandeemia", "kriis", "skandaal", "vägivald", "vägistamine",
-    "tulistamine", "plahvatus", "terror", "röövimine", "enesetapp", "vigastada",
-    "vigastatud", "vahistati", "kohtuprotsess", "süüdistus", "pankrot", "korruptsioon",
+    "tulistamine", "plahvatus", "terror", "röövimine", "enesetapp", "vigastu",
+    "vahistati", "kohtuprotsess", "süüdistus", "pankrot", "korruptsioon",
     "koondamine",
+    "doping", "dopingu", "diskvalifi",
+    "haigestu", "leetrid",
+    "trahv", "leke",
+    "lahkus ametist",
 ]
 
 # For "general" mode feeds, an item must ALSO match one of these to be considered on-topic.
 POSITIVE_KEYWORDS = {
+    "robotiikka_ja_tekoaly": {
+        "fi": ["robot", "tekoäly", "tekoälyn", "algoritmi", "koneoppi", "autonomi", "droon"],
+        "et": ["robot", "tehisintellekt", "algoritm", "masinõpe", "autonoom", "droon"],
+    },
     "ymparisto": {
-        "fi": ["ympäristö", "luonto", "ilmasto", "uusiutuva energia", "kierrätys",
-              "suojelu", "eläinkanta", "metsä", "luonnonsuojelu", "päästö", "aurinkovoima",
-              "tuulivoima", "biodiversiteetti"],
-        "et": ["keskkond", "loodus", "kliima", "taastuvenergia", "ringlussevõtt",
-              "looduskaitse", "mets", "elustik", "päikeseenergia", "tuuleenergia",
-              "elurikkus"],
+        "fi": ["ympäristö", "luonto", "ilmasto", "ilmastonmuutos", "kasvihuone",
+              "uusiutuva energia", "kierrätys", "suojelu", "eläinkanta",
+              "luonnonsuojelu", "päästö", "päästövähennys", "aurinkovoima",
+              "tuulivoima", "biodiversiteetti", "uhanalainen"],
+        "et": ["keskkond", "loodus", "kliima", "kliimamuutus", "taastuvenergia",
+              "ringlussevõtt", "looduskaitse", "metsakaitse", "elustik",
+              "päikeseenergia", "tuuleenergia", "elurikkus", "ohustatud liik"],
     },
     "yhteiso": {
-        "fi": ["vapaaehtois", "hyväntekeväisyys", "yhteisö", "lahjoit", "auttoi",
-              "auttavat", "hyvä teko", "keräys", "talkoot", "tukiverkko"],
-        "et": ["vabatahtlik", "heategevus", "kogukond", "annetas", "aitas",
-              "abistas", "hea tegu", "korje", "talgud"],
+        "fi": ["vapaaehtois", "hyväntekeväisyys", "lahjoit", "hyvä teko",
+              "keräys", "talkoot", "tukiverkko", "yhteisöllisyys"],
+        "et": ["vabatahtlik", "heategevus", "annetas", "hea tegu", "korje", "talgud"],
     },
     "uudet_yritykset": {
-        "fi": ["perusti", "perustivat", "käynnisti", "startup", "kasvuyritys",
-              "innovaatio", "keksintö", "uusi yritys", "sijoitus", "rahoituskierros"],
-        "et": ["asutas", "asutasid", "käivitas", "idufirma", "kasvufirma",
-              "innovatsioon", "leiutis", "uus ettevõte", "investeering", "rahastusvoor"],
+        "fi": ["perusti yrityksen", "perustivat yrityksen", "käynnisti yrityksen",
+              "startup", "kasvuyritys", "innovaatio", "keksintö", "uusi yritys",
+              "rahoituskierros", "pääomasijoitus"],
+        "et": ["asutas ettevõtte", "asutasid ettevõtte", "käivitas ettevõtte",
+              "idufirma", "kasvufirma", "innovatsioon", "leiutis", "uus ettevõte",
+              "rahastusvoor", "kapitaliinvesteering"],
     },
 }
 
