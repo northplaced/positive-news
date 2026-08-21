@@ -1,0 +1,13 @@
+{
+  "generated_at": null,
+  "categories": [
+    { "key": "tiede", "label": "Tiede", "entries": [] },
+    { "key": "terveys", "label": "Terveys ja hyvinvointi", "entries": [] },
+    { "key": "robotiikka_ja_tekoaly", "label": "Robotiikka ja tekoäly", "entries": [] },
+    { "key": "ymparisto", "label": "Ympäristö ja luonto", "entries": [] },
+    { "key": "yhteiso", "label": "Yhteisö ja hyvät teot", "entries": [] },
+    { "key": "uudet_yritykset", "label": "Uudet yritykset ja innovaatiot", "entries": [] },
+    { "key": "urheilu", "label": "Urheilusaavutukset", "entries": [] },
+    { "key": "kulttuuri", "label": "Kulttuurihelmet", "entries": [] }
+  ]
+}
