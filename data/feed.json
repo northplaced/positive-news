@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:37:14.658792+00:00",
+  "generated_at": "2026-09-20T17:51:21.227129+00:00",
   "categories": [
     {
       "key": "tiede",
@@ -11,7 +11,7 @@
           "title": "Viikon eläin | Hämähäkin vuokrakämppä sijaitsee huonolla alueella – pieni sammakko pitää tunkeilijat kurissa",
           "summary": "Sammakko pitää vuokraisännän nurkat puhtaina.",
           "link": "https://www.hs.fi/tiede/art-2000012276500.html",
-          "published": "Sun, 20 Sep 2026 08:00:00 GMT"
+          "published": "Sun, 20 Sep 2026 13:27:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
@@ -56,6 +56,22 @@
         {
           "outlet": "Postimees",
           "lang": "et",
+          "title": "Miks tehisaru ei hakka kunagi inimese moodi mõtlema – kas Alan Turing viis meid eksiteele?",
+          "summary": "Mis siis, kui tehisaru suurim probleem ei ole selles, et masinad pole veel piisavalt targad, vaid selles, et oleme valesti aru saanud, mida intelligentsus üldse tähendab? Arvutiteadlane Peter J. Denning väidab, et Alan Turingi 1950. aastal sõnastatud ideed suunasid kogu valdkonna",
+          "link": "https://pmo.ee/8512192",
+          "published": "Sun, 20 Sep 2026 18:44:00 +0300"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
+          "title": "Pärmi abil tehtud gripivaktsiin valmib senise poole aasta asemel nädalatega",
+          "summary": "Praegune gripivaktsiin tuleb igal aastal uuesti valmis teha, sest viirus muutub kiiresti ja tootmine ise võtab kaua aega. Michigani ülikooli teadlased proovivad nüüd lahendada mõlemat probleemi korraga, kasutades vaktsiini valmistamiseks pärmi ning sihtides viiruse osa, mis muutu",
+          "link": "https://pmo.ee/8534689",
+          "published": "Sun, 20 Sep 2026 14:12:00 +0300"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
           "title": "Riiete korduskasutuse jäljed Kalamajas: kaltsud-lapid, müts ja käpik kauba peale",
           "summary": "Tallinna arheoloogilistel kaevamistel on siin-seal ikka tulnud nähtavale riidetükke. Ent Kalamajast Jahu tänava prügilast leitud üle 2300 rõivakatke on suurim hansalinnast avastatud hiliskeskaegne-varauusaegne tekstiilikogum.",
           "link": "https://pmo.ee/8548812",
@@ -84,22 +100,6 @@
           "summary": "Teadlased on juba aastaid proovinud kasvatada inimese ajurakke loomades, et mõista haigusi, mida hiired ise kunagi ei põe. Nüüd on neuroteadlased leidnud viisi, kuidas inimese ajuorganoidid saavad hiire ajus senisest palju suuremaks kasvada ja kohalike närviahelatega ühenduda. Tu",
           "link": "https://pmo.ee/8548160",
           "published": "Sat, 19 Sep 2026 17:16:00 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "30 aastat aretatud superhiired valmistasid teadlastele ootamatu üllatuse – keegi ei osanud arvata, et just nii läheb",
-          "summary": "Kui loom muutub erakordselt kiireks või aktiivseks, võiks arvata, et organism peab selle eest millegi muuga maksma. Just seda mõtet panid teadlased proovile hiirtega, keda aretati põlvkondade kaupa üha suurema jooksuaktiivsuse suunas. Need loomad suudavad jooksurattal läbida tava",
-          "link": "https://pmo.ee/8545922",
-          "published": "Sat, 19 Sep 2026 14:02:00 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "Tehisaru ohtudest vabastaksid inimkonna neli ammust reeglit –  aga kas see on ikka nii lihtne?",
-          "summary": "Mis oleks, kui tehisaru ohutuse üks kuulsamaid probleeme oleks kirjanik Isaac Asimovi sulest lahenduse saanud juba 1940. aastatel? Tyler Winklevossi arvates võiksid tänapäeva tehisarulaborid lihtsalt võtta kasutusele tema tuntud robootikaseadused ja need oma süsteemidesse sisse e",
-          "link": "https://pmo.ee/8547677",
-          "published": "Sat, 19 Sep 2026 12:08:00 +0300"
         }
       ]
     },
@@ -107,6 +107,14 @@
       "key": "robotiikka_ja_tekoaly",
       "label": "Robotiikka ja tekoäly",
       "entries": [
+        {
+          "outlet": "Iltasanomat",
+          "lang": "fi",
+          "title": "Tekoäly kehitti oman kielen, ihmisillä vaikeuksia pysyä perässä: ”Paperi, joka söi kolme kylmää kättä ja muuttui joka kerta rehellisemmäksi”",
+          "summary": "Tekoälymalli alkoi käyttää esimerkiksi ilmaisua: ”Paperi, joka söi kolme kylmää kättä ja muuttui joka kerta rehellisemmäksi.”",
+          "link": "https://www.is.fi/digitoday/art-2000012276582.html",
+          "published": "Sun, 20 Sep 2026 16:43:00 GMT"
+        },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
@@ -148,14 +156,6 @@
           "published": "Thu, 17 Sep 2026 17:07:00 GMT"
         },
         {
-          "outlet": "Iltasanomat",
-          "lang": "fi",
-          "title": "WhatsAppiin tuli uusi nappi – eikä sitä voi poistaa",
-          "summary": "Meta toi tekoälyn WhatsAppiin. Sitä ei voi poistaa.",
-          "link": "https://www.is.fi/digitoday/mobiili/art-2000012277034.html",
-          "published": "Wed, 16 Sep 2026 07:57:00 GMT"
-        },
-        {
           "outlet": "Iltalehti",
           "lang": "fi",
           "title": "Myös Googlen tekoäly karkasi käsistä – Murtautui järjestelmiin",
@@ -170,14 +170,6 @@
           "summary": "India planeerib hankida päikeseenergial töötavaid stratosfääridroone, et asendada kalleid satelliidilahendusi ning tagada pikaajaline luure- ja sidevõimekus enam kui 20 kilomeetri kõrgusel. Riigi õhujõudude teabepäring on tekitanud huvi rahvusvahelisel kaitseturul.",
           "link": "https://pmo.ee/8546203",
           "published": "Wed, 16 Sep 2026 09:09:00 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "Uus Ukraina radar võetakse kasutusse – droone ja lennukeid hakkab nägema nüüd ikka kaugelt-kaugelt",
-          "summary": "Õhutõrjes võib kõige tähtsam relv olla hoopis aeg. Ukraina Pelicani radar suudab märgata õhusihtmärke väga kaugelt ning jälgida nii droone kui ka eri tüüpi rakette. Selle töö mõte pole üksnes ekraanile täpi tekitamine, vaid võimalikult kiire hoiatuse edastamine üksustele, kes pea",
-          "link": "https://pmo.ee/8531703",
-          "published": "Sun, 13 Sep 2026 15:34:00 +0300"
         }
       ]
     },
@@ -332,6 +324,14 @@
         {
           "outlet": "Postimees",
           "lang": "et",
+          "title": "Pärmi abil tehtud gripivaktsiin valmib senise poole aasta asemel nädalatega",
+          "summary": "Praegune gripivaktsiin tuleb igal aastal uuesti valmis teha, sest viirus muutub kiiresti ja tootmine ise võtab kaua aega. Michigani ülikooli teadlased proovivad nüüd lahendada mõlemat probleemi korraga, kasutades vaktsiini valmistamiseks pärmi ning sihtides viiruse osa, mis muutu",
+          "link": "https://pmo.ee/8534689",
+          "published": "Sun, 20 Sep 2026 14:12:00 +0300"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
           "title": "«Usaldagem kogenud arsti.» Raamat, mis peletab hirmu vanaks jäämise ees",
           "summary": "Rahvusraamatukogu kultuurinõunik Karl Martin Sinijärv soovitab Margus Punabi raamatut «Sinu elu kõige ilusam ja vabam vaatus».",
           "link": "https://pmo.ee/8548335",
@@ -370,12 +370,12 @@
           "published": "Sat, 19 Sep 2026 07:00:00 +0300"
         },
         {
-          "outlet": "Postimees",
+          "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "Kas bioloogilist kella saab tagasi keerata? Uuring toob esile ainsad tõestatud viisid",
-          "summary": "Me kõik soovime elada võimalikult kaua ja tervelt, otsides pidevalt uusi viise vananemise pidurdamiseks. Uus ulatuslik teadustöö uuris vere bioloogilisi markereid ning leidis, et kindlad elustiilimuutused ja ravimid võivad bioloogilist kella tõepoolest aeglustada, samas kui popul",
-          "link": "https://pmo.ee/8546321",
-          "published": "Fri, 18 Sep 2026 18:00:00 +0300"
+          "title": "Haigus, millest häbenetakse rääkida! Arst: söömishäired kimbutavad üha rohkem Eesti noori ja tagajärjed on väga ohtlikud",
+          "summary": "Ariana Grande (33) silmatorkav kõhnus uues muusikavideos on taas tõstatanud teema, mis pole kaugeltki uus ega kahjuks ka haruldane, nimelt söömishäired. Samal ajal kui laulja meeskond ja woke-aktivistid kaitsevad agressiivselt tema õigust oma välimusele, tunnevad paljud fännid, l",
+          "link": "https://www.ohtuleht.ee/tervis/1164360/haigus-millest-habenetakse-raakida-arst-soomishaired-kimbutavad-uha-rohkem-eesti-noori-ja-tagajarjed-on-vaga-ohtlikud",
+          "published": "Sun, 20 Sep 2026 11:30:00 GMT"
         },
         {
           "outlet": "Õhtuleht",
@@ -416,14 +416,6 @@
           "summary": "Uimastite tarvitamise ennetamine algab teadlikust valikust enda eest seista. Uimastiteta elu pakub palju võimalusi tegeleda hobide ja tegevustega, mis pakuvad rõõmu ning aitavad arendada uusi oskusi. Tähtis on osata ära tunda kaaslaste survet ning kriitiliselt mõelda.",
           "link": "https://www.ohtuleht.ee/noored/1165450/video-narko-pole-naljaasi-6-kui-sulle-pakutakse-uimasteid-utle-lihtsalt-et-sa-ei-soovi-neid",
           "published": "Mon, 14 Sep 2026 11:10:00 GMT"
-        },
-        {
-          "outlet": "Õhtuleht",
-          "lang": "et",
-          "title": "Pühapäevasuitsetaja enesepettus: ei ole olemas ohutut sigarettide arvu",
-          "summary": "Me kõik oleme märganud, et tavasigarettide suitsetajaid on jäänud vähemaks, kuid selle asemele on tulnud uus mure – e-sigaretid ja teised nikotiinitooted. Kahjuks on need aina populaarsemad ka tüdrukute ja naiste seas.",
-          "link": "https://www.ohtuleht.ee/naisteleht/1166354/puhapaevasuitsetaja-enesepettus-ei-ole-olemas-ohutut-sigarettide-arvu",
-          "published": "Mon, 14 Sep 2026 11:00:00 GMT"
         }
       ]
     },
@@ -431,6 +423,14 @@
       "key": "ymparisto",
       "label": "Ympäristö ja luonto",
       "entries": [
+        {
+          "outlet": "Iltasanomat",
+          "lang": "fi",
+          "title": "Poliisi yllätti rälläkkämiehet Rovaniemellä",
+          "summary": "Poliisi nappasi miehet metallinkierrätys­yrityksen pihalla olevasta kiinteistö­hallista.",
+          "link": "https://www.is.fi/kotimaa/art-2000012286692.html",
+          "published": "Sun, 20 Sep 2026 11:37:00 GMT"
+        },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
@@ -450,10 +450,10 @@
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "LOODUSFOTO ⟩ Läänemere viigerhülgeid ähvardab väljasuremine",
-          "summary": "Tallinnas 1980. aastal peetud olümpia purjeregati maskotiks oli viigerhüljes Vigri. Suurem osa eestlastest ei ole seda toredat looma näinud või osanud teda hallhülgest eristada.",
-          "link": "https://pmo.ee/8546589",
-          "published": "Sun, 20 Sep 2026 11:30:00 +0300"
+          "title": "Soomlased korraldavad täiesti ainulaadset festivali: esinejate ilmumine lavale on suur küsimärk",
+          "summary": "Soome kaguosas asuv 5000 elanikuga Pyhtää vald korraldab sel sügisel midagi täiesti ainulaadset: 10. oktoobril leiab aset maailma esimene looduse kuulamise festival Hiljaa Fest. Valkmusa rahvuspargis toimuv tasuta sündmus on pühendatud piirkonna mitmekesisele loodusele ja rahusta",
+          "link": "https://pmo.ee/8548863",
+          "published": "Sun, 20 Sep 2026 20:00:00 +0300"
         }
       ]
     },
@@ -483,290 +483,290 @@
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Nyt jysähti: Yleisurheilussa uusi maailmanennätys – Ruotsin supertähdeltä historiallinen temppu",
-          "summary": "Maantiejuoksun MM-kisoissa tärähti puolimaratonin uusi maailmanennätys.",
-          "link": "https://www.is.fi/yleisurheilu/art-2000012286581.html",
-          "published": "Sun, 20 Sep 2026 09:34:00 GMT"
+          "title": "Suomi voitti armottoman trillerin – nuoren tähden reaktio kertoo kaiken",
+          "summary": "Suomen pelaajat olivat sanomattoman helpottuneita.",
+          "link": "https://www.is.fi/lentopallo/art-2000012286857.html",
+          "published": "Sun, 20 Sep 2026 17:46:00 GMT"
         },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Tomek Valtoselle potkut? Nyt tärähti karu ennustus Jokereista",
-          "summary": "Jokerit on vajonnut SM-liigan jumboksi. Paine päävalmentaja Tomek Valtosen ympärillä kasvaa.",
-          "link": "https://www.is.fi/sm-liiga/art-2000012286445.html",
-          "published": "Sun, 20 Sep 2026 09:18:00 GMT"
+          "title": "Kalle Palanderin tuleva vastustaja selvisi",
+          "summary": "Valokuva kauhistutti alppihiihdon maailmanmestarin.",
+          "link": "https://www.is.fi/kamppailulajit/art-2000012287161.html",
+          "published": "Sun, 20 Sep 2026 17:15:00 GMT"
         },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Raju video leviää: Ex-maa­joukkue­tähden päältä ajettiin jyrällä kaikkien edessä – yleisö järkyttyi näystä",
-          "summary": "Andros Townsendin verryttely sai hämmentävän käänteen.",
-          "link": "https://www.is.fi/jalkapallo/art-2000012286413.html",
-          "published": "Sun, 20 Sep 2026 09:05:00 GMT"
+          "title": "Suomi nousi vaikeuksien kautta voittoon – EM-unelma elää",
+          "summary": "Suomi eteni EM-puolivälierään.",
+          "link": "https://www.is.fi/lentopallo/art-2000012286840.html",
+          "published": "Sun, 20 Sep 2026 16:54:00 GMT"
         },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Anaheim täräytti pitkän jatkosopimuksen",
-          "summary": "”Washe Machine” jatkaa Anaheimissa.",
-          "link": "https://www.is.fi/nhl/art-2000012286510.html",
-          "published": "Sun, 20 Sep 2026 08:28:00 GMT"
+          "title": "Kommentti: Uskomaton trilleri Torinossa! Suomi oli romahtaa täysin, mutta taisteli kuin hullu",
+          "summary": "Suomi ei päässyt tasolleen, mutta raapi voiton armottomalla taistelulla, kirjoittaa toimittaja Tony Pietilä.",
+          "link": "https://www.is.fi/lentopallo/art-2000012286837.html",
+          "published": "Sun, 20 Sep 2026 16:53:00 GMT"
         },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Alisa Vainio tankkasi näin EM-kulta­juoksussaan – tavallisen kuntoilijan ei kannata kopioida suoraan",
-          "summary": "Alisa Vainio otti EM-kultajuoksussaan useaan kertaa energiageeliä, joka on tuttu tuote myös monille kuntoilijoille. Moni voi käyttää niitä turhaan – tai väärällä tavalla.",
-          "link": "https://www.is.fi/urheilu/art-2000012247723.html",
-          "published": "Sun, 20 Sep 2026 07:48:00 GMT"
+          "title": "Suomelle historiallinen nöyryytys EM-kisoissa: Saksa voitti 93–0",
+          "summary": "Saksa oli historiallisen tyly isäntä ja murskasi Suomen ennätyslukemin.",
+          "link": "https://www.is.fi/urheilu/art-2000012287057.html",
+          "published": "Sun, 20 Sep 2026 16:04:00 GMT"
         },
         {
           "outlet": "Iltasanomat",
           "lang": "fi",
-          "title": "Suomen entiseltä NHL-mieheltä hurja debyytti Ruotsissa",
-          "summary": "Joona Koppanen loisti länsinaapurissamme.",
-          "link": "https://www.is.fi/jaakiekko/art-2000012286418.html",
-          "published": "Sun, 20 Sep 2026 07:08:00 GMT"
+          "title": "Ella Junnila meni naimisiin – julkaisi hempeitä hääkuvia",
+          "summary": "Ella Junnila julkaisi ilahduttavia kuvia.",
+          "link": "https://www.is.fi/yleisurheilu/art-2000012286772.html",
+          "published": "Sun, 20 Sep 2026 15:15:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Jääkiekko | Asiantuntija: Jokerien Tomek Valtosella on viikko aikaa ennen kuin ovi alkaa käydä",
-          "summary": "Jokerit on vajonnut SM-liigan jumboksi. Paine päävalmentaja Tomek Valtosen ympärillä kasvaa.",
-          "link": "https://www.hs.fi/urheilu/art-2000012286524.html",
-          "published": "Sun, 20 Sep 2026 09:05:00 GMT"
+          "title": "Jalkapallo | Valioliigassa kahdeksan maalin ilotulitus, Erling Haaland nousi Harry Kanen rinnalle",
+          "summary": "Erling Haaland sinetöi kahdeksan maalin trillerin ja nousi samalla harvalukuiseen kerhoon. Vain hän ja Harry Kane ovat onnistuneet maalinteossa jokaista kohtaamaansa joukkuetta vastaan.",
+          "link": "https://www.hs.fi/urheilu/art-2000012287044.html",
+          "published": "Sun, 20 Sep 2026 17:39:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Pesäpallo | Manse PP murskattiin finaaliottelussa, Jussittaret voiton päässä mestaruudesta",
-          "summary": "Mestaruus on katkolla Jussittarille sunnuntaina.",
-          "link": "https://www.hs.fi/urheilu/art-2000012286015.html",
-          "published": "Sun, 20 Sep 2026 08:48:00 GMT"
+          "title": "Lentopallo | Suomi iski puolivälieriin hurjan draaman jälkeen",
+          "summary": "HS seurasi Suomen ja Kreikan välistä EM-neljännesvälierää.",
+          "link": "https://www.hs.fi/urheilu/art-2000012286875.html",
+          "published": "Sun, 20 Sep 2026 17:16:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Yleisurheilu | Jere Murron lapsuuden leikki oli niin henkilökohtainen, että häntä hävetti se jopa isän seurassa",
-          "summary": "Jere Murto, 17, haaveilee olympiavoitosta. Puheille on katetta.",
-          "link": "https://www.hs.fi/urheilu/art-2000012271908.html",
-          "published": "Sun, 20 Sep 2026 08:00:00 GMT"
+          "title": "Kommentti | Suomi kävi lähellä romahdusta EM-lentopallossa, mutta taisteli kuin vimmattu",
+          "summary": "Suomi eteni EM-lentopallon puolivälieriin. Joukkue ei päässyt tasolleen, mutta raapi voiton armottomalla taistelulla.",
+          "link": "https://www.hs.fi/urheilu/art-2000012287155.html",
+          "published": "Sun, 20 Sep 2026 16:58:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Hiihto | Espoon jättikokoisesta lumikasasta suli neljännes",
-          "summary": "Espoon Oittaalla hiihdetään reilun kuukauden päästä säilölumella.",
-          "link": "https://www.hs.fi/urheilu/art-2000012278397.html",
-          "published": "Sun, 20 Sep 2026 06:59:00 GMT"
+          "title": "Jalkapallo | 93 A-maaottelua pelannut Nora Heroum lopettaa uransa",
+          "summary": "Nora Heroum ripustaa nappulakengät naulaan.",
+          "link": "https://www.hs.fi/urheilu/art-2000012286902.html",
+          "published": "Sun, 20 Sep 2026 13:41:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Kamppailulajit | Ice Cage 8 oli urheilukortti ähkyyn asti: näistä puheen­aiheista ilta muistetaan",
-          "summary": "Ice Cage iskettiin Turussa keskellä hektistä kamppailusyksyä. Tässä illan kuumimpia puheenaiheita.",
-          "link": "https://www.hs.fi/urheilu/art-2000012286393.html",
-          "published": "Sun, 20 Sep 2026 06:04:00 GMT"
+          "title": "HS-analyysi | Jori Lehterän lähtö oli erikoinen episodi jopa HIFK:n mittareilla",
+          "summary": "Jori Lehterä lähti yllättäen IFK:sta ja nyt spekulaatio pelintekijämaestron uudesta joukkueesta käy jo kuumana, kirjoittaa Ville Touru.",
+          "link": "https://www.hs.fi/urheilu/art-2000012286891.html",
+          "published": "Sun, 20 Sep 2026 13:37:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Lentopallon EM | Suomi voi joutua kohta todella ahtaaseen paikkaan EM-kisoissa: ”Täytyy myöntää”",
-          "summary": "Suomen EM-kisapelit jatkuvat Italiassa.",
-          "link": "https://www.hs.fi/urheilu/art-2000012285466.html",
-          "published": "Sat, 19 Sep 2026 23:00:00 GMT"
+          "title": "Nyrkkeily | Pihla Kaivo-oja oli voitokas EM-kehässä",
+          "summary": "Pihla Kaivo-oja päihitti puolalaisvastustajan EM-kisoissa.",
+          "link": "https://www.hs.fi/urheilu/art-2000012286754.html",
+          "published": "Sun, 20 Sep 2026 11:50:00 GMT"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Maailman­ennätys puoli­maratonilla! Therese Johauginkin suoritus mykistää",
+          "title": "Yllättävä suomalais­sopimus NHL:ssä",
           "summary": "",
-          "link": "https://www.iltalehti.fi/yleisurheilu/a/c6f136bf-e3e8-4ee7-841a-59412cfeeb97?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 11:58:51 +0300"
+          "link": "https://www.iltalehti.fi/nhl/a/6d0a4a22-3364-4691-98cb-eec66ce23063?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 20:19:46 +0300"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Keihäs­karjuille lätkäistiin upouusi laite – Suomalainen asiantuntija ei vakuutu: ”Kukaan ei ole tutkinut”",
+          "title": "Suomi jatkaa puolivälieriin – Kreikka taipui hurjassa viisieräisessä",
           "summary": "",
-          "link": "https://www.iltalehti.fi/yleisurheilu/a/b208869b-5c8f-4960-97d6-c94e840947cf?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 11:45:01 +0300"
+          "link": "https://www.iltalehti.fi/muutlajit/a/90f0f9b6-81a4-4979-a1a1-15683a215093?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 20:09:47 +0300"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Hirvittävä vaaratilanne futiskentällä – Pelaaja jäi jyrän alle",
+          "title": "Suomalais­lupaus häikäisee NHL-leirillä – Jenkeissä ihmetellään Kari Jalosen ratkaisua",
           "summary": "",
-          "link": "https://www.iltalehti.fi/jalkapallo/a/581e4c36-caaf-4da3-b1ed-ac8cce275ebf?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 11:00:44 +0300"
+          "link": "https://www.iltalehti.fi/nhl/a/51971dc3-c448-401b-bb47-8e43b0dabd8f?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 19:53:08 +0300"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Tätä näkyä Theo Kolehmainen ei vielä tiennyt",
+          "title": "Kommentti: HIFK:lla on niskalenkki Jori Lehterästä",
           "summary": "",
-          "link": "https://www.iltalehti.fi/kamppailulajit/a/0acc6947-116f-4a29-afb1-369a7263448e?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 10:32:33 +0300"
+          "link": "https://www.iltalehti.fi/smliiga/a/c8b3abfc-e254-490d-8692-f8ae1e1595ed?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 19:20:12 +0300"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Kalle Rovanperä: Paluu ralliauton rattiin",
+          "title": "Valtava mitalivyöry – Bikini fitnessissä todella näyttävä suomalais­suoritus",
           "summary": "",
-          "link": "https://www.iltalehti.fi/ralli/a/a1cbbf22-ab3d-4b97-8b59-c94d6d7726b1?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 09:53:23 +0300"
+          "link": "https://www.iltalehti.fi/fitnessvoimailu/a/7bcc4c77-f90c-4b44-9c28-e441272c1694?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 18:38:01 +0300"
         },
         {
           "outlet": "Iltalehti",
           "lang": "fi",
-          "title": "Nimi muistiin: Vasta 14-vuotias Mette Korhonen jysäytti Suomen mestariksi",
+          "title": "Venäjän kohumieheltä härski temppu",
           "summary": "",
-          "link": "https://www.iltalehti.fi/talviurheilu/a/8663cc34-cdc3-4060-8851-7c3b04430450?utm_source=rss",
-          "published": "Sun, 20 Sep 2026 09:25:30 +0300"
+          "link": "https://www.iltalehti.fi/yleisurheilu/a/4ab533c7-67d2-4908-b987-ff9c4cfba985?utm_source=rss",
+          "published": "Sun, 20 Sep 2026 17:29:02 +0300"
         },
         {
           "outlet": "Aamulehti",
           "lang": "fi",
-          "title": "Seuranta | Manse PP on selkä seinää vasten – Ratkeaako pesäpallon Suomen mestaruus tänään Tampereella?",
+          "title": "Tampereen loppuunmyyty yleisö koetteli Manse PP:n jokerin ääntä: \"Tämä ei ole hirveän kaunista\"",
+          "summary": "Manse PP sai nollattua edellisen päivän pettymyksen ja siirsi mestaruuden ratkaisun viidenteen finaaliin.",
+          "link": "https://www.aamulehti.fi/urheilu/art-2000012267975.html",
+          "published": "Sun, 20 Sep 2026 17:10:00 GMT"
+        },
+        {
+          "outlet": "Aamulehti",
+          "lang": "fi",
+          "title": "Neljännesvälierästä muodostui tasainen trilleri – Suomi oli romahtaa täysin, mutta taisteli kuin hullu",
+          "summary": "Suomi ei päässyt tasolleen, mutta raapi voiton armottomalla taistelulla, kirjoittaa toimittaja Tony Pietilä.",
+          "link": "https://www.aamulehti.fi/urheilu/art-2000012287175.html",
+          "published": "Sun, 20 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "outlet": "Aamulehti",
+          "lang": "fi",
+          "title": "Seuranta | Suomi voitti hurjan trillerin ja eteni puolivälieriin – juuri tasaisemmaksi ei olisi voinut mennä",
+          "summary": "Aamulehti seurasi Suomen ja Kreikan välistä lentopallon EM-neljännesvälieräottelua tässä artikkelissa.",
+          "link": "https://www.aamulehti.fi/urheilu/art-2000012286868.html",
+          "published": "Sun, 20 Sep 2026 16:45:00 GMT"
+        },
+        {
+          "outlet": "Aamulehti",
+          "lang": "fi",
+          "title": "Jori Lehterän hämärä saaga herättää paljon kysymyksiä",
+          "summary": "Jori Lehterän lähtö HIFK:sta oli monella tapaa hyvin poikkeuksellinen. Spekulaatio pelintekijämaestron uudesta joukkueesta käy jo kuumana, kirjoittaa Ville Touru.",
+          "link": "https://www.aamulehti.fi/liiga/art-2000012286832.html",
+          "published": "Sun, 20 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "outlet": "Aamulehti",
+          "lang": "fi",
+          "title": "Seuranta | Manse PP jyräsi finaalisarjan tasoihin täpötäydellä Kaupin stadionilla: juoksujuhla ja yllättävä kikka saivat katsojat sekaisin",
           "summary": "Aamulehti seuraa Manse PP:n ja Jussittarien neljättä finaaliottelua tässä jutussa.",
           "link": "https://www.aamulehti.fi/urheilu/art-2000012279098.html",
-          "published": "Sun, 20 Sep 2026 09:35:00 GMT"
+          "published": "Sun, 20 Sep 2026 15:24:00 GMT"
         },
         {
           "outlet": "Aamulehti",
           "lang": "fi",
-          "title": "Live | Suora lähetys: Tankotanssin ja ilma-akrobatian taiturit esiintyvät Lempäälässä – ikähaitari ulottuu lapsista yli viisikymppisiin",
-          "summary": "Aamulehti näyttää sunnuntaina 20.9. suorana lähetyksenä tankotanssin ja ilma-akrobatian näytöstapahtuman Lempäälästä. Tapahtumasta tulee myös jälkikäteen katsottavaksi tallenne.",
-          "link": "https://www.aamulehti.fi/urheilu/art-2000012274897.html",
-          "published": "Sun, 20 Sep 2026 09:00:00 GMT"
-        },
-        {
-          "outlet": "Aamulehti",
-          "lang": "fi",
-          "title": "Fanit hurmaantuivat Ilves-taustaisesta hyökkääjästä Ruotsissa – \"Ensimmäisen kerran tuollaista tapahtui\"",
-          "summary": "Joona Koppanen loisti länsinaapurissamme.",
-          "link": "https://www.aamulehti.fi/urheilu/art-2000012286565.html",
-          "published": "Sun, 20 Sep 2026 08:37:00 GMT"
-        },
-        {
-          "outlet": "Aamulehti",
-          "lang": "fi",
-          "title": "Live | Suora lähetys: Yli 400 voimistelijaa kilpailee Tampereella – Aamulehti näyttää naisten telinevoimistelua Ikurista",
-          "summary": "Aamulehti näyttää suorana lähetyksenä Tampereen Voimistelijoiden järjestämät naisten telinevoimistelukilpailut Ikurin liikuntahallista 19.–20. syyskuuta. Kilpailut voi katsoa myös jälkikäteen tallenteelta.",
+          "title": "Live | Yli 400 voimistelijaa kilpaili Tampereella – Katso tallenteet tästä",
+          "summary": "Aamulehti näytti suorana lähetyksenä Tampereen Voimistelijoiden järjestämät naisten telinevoimistelukilpailut Ikurin liikuntahallista 19.–20. syyskuuta. Kilpailut voi katsoa tallenteelta.",
           "link": "https://www.aamulehti.fi/urheilu/art-2000012274931.html",
-          "published": "Sun, 20 Sep 2026 06:04:00 GMT"
-        },
-        {
-          "outlet": "Aamulehti",
-          "lang": "fi",
-          "title": "Nooa Marttilan rajaton itseluottamus nousi esiin huvittavalla tavalla – siirsi muut kulmaan seisomaan",
-          "summary": "Luka ja Nooa Marttila ovat olleet Suomen avainpelaajia lentopallon EM-kisoissa. Isä Antti-Jussi Marttilalle poikien pelien katsominen käy treenistä.",
-          "link": "https://www.aamulehti.fi/urheilu/art-2000012267849.html",
-          "published": "Sun, 20 Sep 2026 05:30:00 GMT"
-        },
-        {
-          "outlet": "Aamulehti",
-          "lang": "fi",
-          "title": "Henrik Haapala nautti tutussa hallissa – ”Kumimaton hajukin oli sama”",
-          "summary": "Tappara otti tyrmäävän 6–0-vierasvoiton ja kiihdytti Jokerien luotsin Tomek Valtosen lähtölaskentaa kenties ratkaisevasti.",
-          "link": "https://www.aamulehti.fi/liiga/art-2000012284601.html",
-          "published": "Sat, 19 Sep 2026 18:00:00 GMT"
+          "published": "Sun, 20 Sep 2026 15:16:00 GMT"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "Toyota paneb WRC ühele ajastule punkti vinge tähisega",
-          "summary": "Sel nädalal sai selgeks, et autoralli MM-sarjas jääb sõita veel vaid üks etapp, sest novembrisse kavandatud Saudi Araabia võistlus tõmmati WRC-kalendrist maha. Sellele vaatamata on sarja domineeriv Toyota Rally1-autode ajastu lõpetamas ajalooliste saavutustega.",
-          "link": "https://pmo.ee/8549101",
-          "published": "Sun, 20 Sep 2026 11:45:00 +0300"
+          "title": "Drell sai oma debüüdil Žalgiriselt koslepi, Rannula ja Legia kütsid Bigbank/Kalevile sauna",
+          "summary": "Eesti korvpallikoondislane Henri Drell tegi debüüdi Leedu kõrgliigas, kui tema koduklubi Klaipeda Neptunas jäi 69:93 alla Kaunase Žalgirisele. Koondise peatreeneri Heiko Rannula juhendatav Varssavi Legia pidas teise kohtumise Bigbank/Kaleviga.",
+          "link": "https://pmo.ee/8549449",
+          "published": "Sun, 20 Sep 2026 20:15:16 +0300"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "FOTOD ⟩ Kiivikas tuli kahekordseks Põhjamaade meistriks, Eesti juuniorid saavutasid kaksikvõidu",
-          "summary": "Soomes Espoos toimuvate IFBB Põhjamaade meistrivõistluste avapäev tõi Eesti koondisele kümme medalit: neli kulda, kaks hõbedat ja neli pronksi.",
-          "link": "https://pmo.ee/8549235",
-          "published": "Sun, 20 Sep 2026 11:00:00 +0300"
+          "title": "Tänak võiduka naasmise järel: alguses kulus rallisõiduga harjumiseks aega",
+          "summary": "Ligi aastase võistluspausi järel USAs võidutsenud Ott Tänak tunnistas, et vajas rallirütmi leidmiseks aega, kuid Toyota GR Corolla jättis talle kohe hea mulje.",
+          "link": "https://pmo.ee/8549437",
+          "published": "Sun, 20 Sep 2026 19:17:38 +0300"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "Martin Himma teeb puudu jäänud aastaid tagasi ja manitseb noori: õige tehnika on kõige alus",
-          "summary": "Martin Himma (27) on üks väheseid Eesti murdmaasuusatamise täiskohaga tippsportlasi, kuid maailma paremikuni jõudmiseks tuleb tasa teha aastatepikkune vahe. Himma räägib ausalt, mis on tema arengut seni pidurdanud ja millised on järgmise hooaja sihid.",
-          "link": "https://pmo.ee/8548297",
-          "published": "Sun, 20 Sep 2026 10:30:00 +0300"
+          "title": "VIDEO ⟩ Isikliku rekordi purustanud Mihhail Selevko jätkas Itaalias eestlaste võidumarssi",
+          "summary": "Eesti iluuisutaja Mihhail Selevko püstitas Bergamos kolm isiklikku rekordit ja võitis rahvusvahelise uisuliidu (ISU) Challenger kategooria võistluse.",
+          "link": "https://pmo.ee/8549402",
+          "published": "Sun, 20 Sep 2026 17:33:12 +0300"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "Eesti kaotas Davise karikasarjas ja peab pidama üleminekumänge",
-          "summary": "Eesti meeskond kaotas Montevideos Davise karikasarja maailmaliiga II grupi kohtumises Uruguaile 0:4 ning peab talvel taas pidama üleminekumängu, et gruppi püsima jääda.",
-          "link": "https://pmo.ee/8549198",
-          "published": "Sun, 20 Sep 2026 09:30:00 +0300"
+          "title": "Ermits tõusis Norra meistrivõistlustel kõrgesse mängu",
+          "summary": "Lõuna-Norras Lygna suusakeskuses peetud riigi suvebiatloni meistrivõistlustel tegi kaasa ka mitu Eesti laskesuusatajat.",
+          "link": "https://pmo.ee/8549381",
+          "published": "Sun, 20 Sep 2026 17:02:16 +0300"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "Üllatus: Suninen laenab viimaseks WRC-etapiks eestlaselt kaardilugejat",
-          "summary": "Soome rallisõitja Teemu Suninen, kel oli kuni Saudi Araabia MM-etapi tühistamiseni matemaatiline võimalus võidelda Robert Virvesega WRC2-sarja MM-tiitli nimel, tuleb starti oktoobri alguses Sardiinia MM-etapil. Ta teeb veel ühe korra koostööd kaardilugeja Janni Hussiga, kes tegel",
-          "link": "https://pmo.ee/8549192",
-          "published": "Sun, 20 Sep 2026 09:00:00 +0300"
+          "title": "«Loojangule vastu kappab üksik hobune!» Vormelitäht Bottas tegi Tartu rattamaratonist vahva video",
+          "summary": "Laupäeval peetud Tartu rattamaratoni 123 km põhidistants tõi stardijoonele nii rahvusvahelisi tipprattureid kui ka vormel 1-sarja sõitja Valtteri Bottase. Soomlane jäi oma kogemusega niivõrd rahule, et tegi sellest sotsiaalmeediasse video.",
+          "link": "https://pmo.ee/8549343",
+          "published": "Sun, 20 Sep 2026 15:45:01 +0300"
         },
         {
           "outlet": "Postimees",
           "lang": "et",
-          "title": "Tänak ja Järveoja võtsid USA debüüdil kindla esikoha",
-          "summary": "Ott Tänak ja Martin Järveoja (Toyota Corolla RC2-auto) võitsid USA autoralli meistrivõistluste Tennessee etapi enam kui minutilise edumaaga. 12 sõidetud katsest võideti 10.",
-          "link": "https://pmo.ee/8547988",
-          "published": "Sun, 20 Sep 2026 07:30:00 +0300"
+          "title": "WRC teatas briti rallisõpradele rõõmustava uudise",
+          "summary": "Järgmisel aastal naaseb Suurbritannia autoralli MM-kalendrisse, kui sõidetakse Šotimaa ralli. Selle raames teatati, et järgmisel kolmel aastal kuuluvad WRC teleülekandeõigused saareriigis avalik-õiguslikule ringhäälingule BBC.",
+          "link": "https://pmo.ee/8549229",
+          "published": "Sun, 20 Sep 2026 14:45:00 +0300"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "Avaveerandil hullu pannud Konontšuk kerkis Saksamaal üleplatsimeheks. Suurorg ja Tass tegid korralikud kontrollmängud",
-          "summary": "Artur Konontšuk kerkis Saksamaa kõrgliiga esimeses mängus üleplatsimeheks.",
-          "link": "https://www.ohtuleht.ee/sport/1167265/avaveerandil-hullu-pannud-konontsuk-kerkis-saksamaal-uleplatsimeheks-suurorg-ja-tass-tegid-korralikud-kontrollmangud",
-          "published": "Sun, 20 Sep 2026 09:23:46 GMT"
+          "title": "Järgmine samm tagasituleku suunas? USAs kindla võidu võtnud Tänak: mõnus oli jälle võistelda!",
+          "summary": "Äsja USAs autoralli meistrivõistluste Tennessee etapi võitnud Ott Tänak tundis suurt heameelt, et sai vahelduseks jälle võistelda.",
+          "link": "https://www.ohtuleht.ee/sport/1167281/jargmine-samm-tagasituleku-suunas-usas-kindla-voidu-votnud-tanak-monus-oli-jalle-voistelda",
+          "published": "Sun, 20 Sep 2026 16:25:33 GMT"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "FOTOD | Eestlased võitsid Põhjamaade meistrivõistluste avapäeval kümme medalit. Kiivikas tuli kahekordseks meistriks",
-          "summary": "Soomes Espoos toimuvate IFBB Põhjamaade meistrivõistluste avapäev tõi Eesti koondisele kümme medalit: neli kulda, kaks hõbedat ja neli pronksi.",
-          "link": "https://www.ohtuleht.ee/sport/1167262/fotod-eestlased-voitsid-pohjamaade-meistrivoistluste-avapaeval-kumme-medalit-kiivikas-tuli-kahekordseks-meistriks",
-          "published": "Sun, 20 Sep 2026 08:15:00 GMT"
+          "title": "VIDEO | Kelly Sildaru tundis uuest hooajast ja teisest kohast suurt rõõmu",
+          "summary": "Vigursuusataja Kelly Sildaru avas hooaja Uus-Meremaal Cardonas Snow League'i esimesel etapil, kus esindas võistkonnavõistlusel Euroopa tiimi. Tulemuseks teine koht nii individuaalselt kui ka võistkondlikult.",
+          "link": "https://www.ohtuleht.ee/sport/1167232/video-kelly-sildaru-tundis-uuest-hooajast-ja-teisest-kohast-suurt-roomu",
+          "published": "Sun, 20 Sep 2026 15:29:41 GMT"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "Elu parima ringi teinud Albert Tamm tõusis viimase päeva eel eliitseeria etapi liidriks",
-          "summary": "Elu parima ringi teinud Albert Tamm tõusis kettagolfi Disc Golf Pro Tour (DGPT) eliitseeria etapi viimase päeva eel esikohale.",
-          "link": "https://www.ohtuleht.ee/sport/1167258/elu-parima-ringi-teinud-albert-tamm-tousis-viimase-paeva-eel-eliitseeria-etapi-liidriks",
-          "published": "Sun, 20 Sep 2026 07:25:30 GMT"
+          "title": "FOTOD | Vigastada saanud Anier jääbki koondisest eemale, asemele kutsuti 34aastane vanameister",
+          "summary": "Hiljuti peatreenerit vahetanud Nõmme Unitedi jalgpallimeeskond tekitas Premium liiga 29. voorus koduplatsil Paide linnameeskonnale peavalu, ent kaotas lõpuks 1 : 3.",
+          "link": "https://www.ohtuleht.ee/sport/1167250/fotod-vigastada-saanud-anier-jaabki-koondisest-eemale-asemele-kutsuti-34aastane-vanameister",
+          "published": "Sun, 20 Sep 2026 15:17:07 GMT"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "Tänak teenis USAs ülekaaluka võidu",
-          "summary": "Ott Tänak ja Martin Järveoja võitsid USA autoralli meistrivõistluste Tennessee etapi, edestades lähimat konkurenti enam kui minutiga.",
-          "link": "https://www.ohtuleht.ee/sport/1167222/tanak-teenis-usas-ulekaaluka-voidu",
-          "published": "Sun, 20 Sep 2026 06:11:47 GMT"
+          "title": "FOTOD | Tartlaste eurorong läinud? Kapteni punane kaart jättis Tammeka raskesse seisu",
+          "summary": "Visalt FC Flora, Paide Linnameeskonna ja Nõmme Kaljuga Eesti jalgpalli kõrgliigas esikolmiku nimel heidelnud Tartu Tammeka hakkab tasapisi väsima, kui täna jäädi koduplatsil just Kaljule 1 : 3 alla.",
+          "link": "https://www.ohtuleht.ee/sport/1167273/fotod-tartlaste-eurorong-lainud-kapteni-punane-kaart-jattis-tammeka-raskesse-seisu",
+          "published": "Sun, 20 Sep 2026 13:51:35 GMT"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "Tilga lõpetas Talence'is kümnendana",
-          "summary": "Ainsa eestlasena legendaarsel Talence'i kümnevõistlusel osalenud Karel Tilga kogus 8195 punkti, mis andis 15 lõpetaja seas kümnenda koha.",
-          "link": "https://www.ohtuleht.ee/sport/1167180/tilga-lopetas-talenceis-kumnendana",
-          "published": "Sat, 19 Sep 2026 20:29:59 GMT"
+          "title": "VIDEO | Võimsa rekordiparanduse teinud Selevko võidutses Itaalias",
+          "summary": "Iluuisutaja Mihhail Selevko võitis Itaalias toimunud ISU Challenger sarja võistluse Lombardia Trophy, püstitades nii lühikavas kui ka vabakavas isikliku rekordi.",
+          "link": "https://www.ohtuleht.ee/sport/1167275/video-voimsa-rekordiparanduse-teinud-selevko-voidutses-itaalias",
+          "published": "Sun, 20 Sep 2026 13:23:34 GMT"
         },
         {
           "outlet": "Õhtuleht",
           "lang": "et",
-          "title": "VIDEO | Petrõkina võitis, kuigi neljakordne hüpe ei tulnud napilt välja",
-          "summary": "Iluuisutaja Niina Petrõkina (22) saavutas Itaalias Bergamos toimuval ISU Challenger sarja võistlusel Lombardia Trophy 210,41 punktiga esikoha.",
-          "link": "https://www.ohtuleht.ee/sport/1167253/video-petrokina-voitis-kuigi-neljakordne-hupe-ei-tulnud-napilt-valja",
-          "published": "Sat, 19 Sep 2026 18:04:45 GMT"
+          "title": "Suusahüppetalent Vagul tegi järjekordse hea võistluse ning püsib suvise sarja poodiumikonkurentsis",
+          "summary": "Suusahüppaja Kaimar Vagul sai Rumeenias Rasnovis toimuval suvise GP-sarja normaalmäevõistlusel kuuenda koha. Hooaja kokkuvõttes püsib ta esikolmikukonkurentsis.",
+          "link": "https://www.ohtuleht.ee/sport/1167268/suusahuppetalent-vagul-tegi-jarjekordse-hea-voistluse-ning-pusib-suvise-sarja-poodiumikonkurentsis",
+          "published": "Sun, 20 Sep 2026 11:07:10 GMT"
         }
       ]
     },
@@ -825,50 +825,74 @@
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Puolustusmenot | Aseisiin kaadetut miljardit voivat olla valtavaa rahanhukkaa",
-          "summary": "Haluaisin tehdä yksimielisyyden muuriin pienen särön ja ilmoittaa: en mitenkään välttämättä luota turvallisuusviranomaisiin ja Puolustusvoimiin.",
-          "link": "https://www.hs.fi/kulttuuri/art-2000012279582.html",
-          "published": "Sat, 19 Sep 2026 23:00:00 GMT"
+          "title": "Peliarvio | Kotimainen Remedy on luonut Control Resonantiin suurimman peli­maailmansa koskaan",
+          "summary": "Remedyn odotettu uutuus on erinomainen peli, vaikka toistaakin välillä itseään.",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012287054.html",
+          "published": "Sun, 20 Sep 2026 17:00:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Kirjat | Tätä demokratiaa ja ihmisarvoa vastustavaa filosofia Piilaakson miljardöörit nyt lukevat",
-          "summary": "Nick Land on kiistanalainen nihilistinen ajattelija, joka pitää demokratiaa haitallisena ja kaipaa yhteiskunnan romahdusta.",
-          "link": "https://www.hs.fi/kulttuuri/art-2000012261882.html",
-          "published": "Sat, 19 Sep 2026 23:00:00 GMT"
+          "title": "Kirjat | Seela Sella kertoo tuoreessa kirjassa, miten koira ja lapsen­lapsi auttoivat häntä unohtamaan sairauden",
+          "summary": "”Seelan kanssa arkisetkin kohtaamiset nousevat aina ihan omalle tasolleen”, kuvailee muusikko Jarkko Martikainen kirjailijapariaan. Hän vieraili ystävänsä luona sairaalassa viimeksi torstaina.",
+          "link": "https://www.hs.fi/kulttuuri/art-2000012286664.html",
+          "published": "Sun, 20 Sep 2026 16:42:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Levyarvio | Beck tekee 12 vuoden välein saman tempun, ja taas se toimii",
-          "summary": "Jos Ride Lonesome -albumi päättää trilogian, se tekee sen hallitusti ja komeasti.",
-          "link": "https://www.hs.fi/popkulttuuri/art-2000012282846.html",
-          "published": "Sat, 19 Sep 2026 17:39:00 GMT"
+          "title": "Elokuvat | Dome Karukoski luopui Hollywood-tilaisuuksista lastensa vuoksi, mutta päätös jätti myös katkeruutta",
+          "summary": "Dome Karukosken tunteet ohjaavat hänen elokuviaan ja uravalintojaan. Uusi elokuva on hänen henkilökohtaisin työnsä.",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012244749.html",
+          "published": "Sun, 20 Sep 2026 16:00:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Konserttiarvio | Kuusumun Profeetan maailmassa maailman­loppukin on romanttinen",
-          "summary": "Kuusumun Profeetta juhlisti uutta levyään monitaiteilija Mika Rätön johdolla.",
-          "link": "https://www.hs.fi/popkulttuuri/art-2000011987132.html",
-          "published": "Sat, 19 Sep 2026 16:29:00 GMT"
+          "title": "Konserttiarvio | Melon ja Lounaonlinen hienoja keikkoja varjosti yleisön hankaluudet päästä sisälle Altaalle",
+          "summary": "Kotimaisen valtavirran kiinnostavimmat nimet esiintyivät kylmässä syysillassa loppuunmyydylle Altaalle.",
+          "link": "https://www.hs.fi/popkulttuuri/art-2000012264491.html",
+          "published": "Sun, 20 Sep 2026 14:17:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Televisiohistoria | Ylen avoimet ovet houkuttelivat tutustumaan kenties Suomen tunnetuimpiin istuimiin",
-          "summary": "Tutut huonekalut ja tavarat nostivat mieleen muistoja paitsi televisio-ohjelmista myös omasta elämästä, kun Yle avasi ovensa yleisölle. Moni yllättyi Ylen rekvisiitan laajuudesta.",
-          "link": "https://www.hs.fi/kulttuuri/art-2000012285263.html",
-          "published": "Sat, 19 Sep 2026 16:07:00 GMT"
+          "title": "Kysy Ainolta | Fanittaako yksikään kansa vaatebrändiä yhtä paljon kuin suomalaiset Marimekkoa?",
+          "summary": "Suomalainen pukeutuu Marimekkoon mennäkseen päiväkotiin, maakuntateatteriin, töihin lakiasiaintoimistoon ja Flow-festivaalin jatkoille. Sille on syynsä.",
+          "link": "https://www.hs.fi/kulttuuri/art-2000012272848.html",
+          "published": "Sun, 20 Sep 2026 14:00:00 GMT"
         },
         {
           "outlet": "Helsingin Sanomat",
           "lang": "fi",
-          "title": "Konserttiarvio | Elim Chan loihti RSO:n konserttiin taian­omaisuutta ja leikkisyyttä",
-          "summary": "Kanadalainen sopraano Claire de Sévigné on hurmaava äänitaituri. Hän liikkui kujeillen laajalla alueella, matalasta rintarekisteristä korkeisiin sireeniääniin.",
-          "link": "https://www.hs.fi/kulttuuri/art-2000012280811.html",
-          "published": "Sat, 19 Sep 2026 15:18:00 GMT"
+          "title": "Toimittajalta | Kirjojen elokuvatulkinnat jakavat mielipiteitä, mutta se on voitto kirjoille",
+          "summary": "Poptähti Billie Eilish nähdään tulevan Lasikello-elokuvan pääroolissa, ja se voi olla monella tavalla hyvä asia.",
+          "link": "https://www.hs.fi/kulttuuri/art-2000012273859.html",
+          "published": "Sun, 20 Sep 2026 11:00:00 GMT"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
+          "title": "REPORTAAŽ ⟩ Eestlane armastab puhtust ja sinki, näitas tänavune Paunvere laat",
+          "summary": "Kõik teavad «Kevade» esimest lauset. Palamusel peeti laupäeval laatadest Eesti kultuuri tüvitekstist läbipõimunumat. Igal juhul läksin ka mina Paunvere laadale koos isaga. Laat oli loomulikult juba alanud.",
+          "link": "https://pmo.ee/8549313",
+          "published": "Sun, 20 Sep 2026 14:51:34 +0300"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
+          "title": "GALERII ⟩ Veiko Belials esitles värsket fantaasiajuttude kogumikku",
+          "summary": "16. septembril tähistati fantaasiajuttude kogumiku «Kogu maailma au» esitlusega Kirjanike Majas Veiko Belialsi 60. sünnipäeva ning eesti ulme päeva. Belialsiga vestles Karl Martin Sinijärv, musitseeris Margus Kappel.",
+          "link": "https://pmo.ee/8548684",
+          "published": "Sun, 20 Sep 2026 14:30:00 +0300"
+        },
+        {
+          "outlet": "Postimees",
+          "lang": "et",
+          "title": "VAATA VÕITJAID ⟩ Ugala teatris jagati uhkelt publikupreemiaid",
+          "summary": "19. septembri õhtul toimunud Ugala teatri 107. hooaja avapeol jagati kätte publikupreemiad ehk Kuldõunad.",
+          "link": "https://pmo.ee/8549318",
+          "published": "Sun, 20 Sep 2026 14:03:46 +0300"
         },
         {
           "outlet": "Postimees",
@@ -893,30 +917,6 @@
           "summary": "19. septembril esines Paavli Kultuurivabrikuus prantsuse electro-, new wave- ja cold wave bänd Martin Dupont, mis moodustati Marseille'is 1980. aastal. Erikülalisena astus üles Kadri Sammel ehk Bedless Bones. Vaata galeriist, kuidas kontsert möödus.",
           "link": "https://pmo.ee/8549263",
           "published": "Sun, 20 Sep 2026 11:58:17 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "«Usaldagem kogenud arsti.» Raamat, mis peletab hirmu vanaks jäämise ees",
-          "summary": "Rahvusraamatukogu kultuurinõunik Karl Martin Sinijärv soovitab Margus Punabi raamatut «Sinu elu kõige ilusam ja vabam vaatus».",
-          "link": "https://pmo.ee/8548335",
-          "published": "Sun, 20 Sep 2026 09:30:00 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "«Milline erakordne debüütromaan!» Menukirjanik Richard Osman jagab oma värskeid lugemissoovitusi",
-          "summary": "Briti kirjanik Richard Osman, kelle muhedad krimilood on väga populaarsed üle maailma, soovitab oma viimase aja lemmikraamatuid. Näiteks on tema valikus on üks liigutav Rootsi debüütromaan, põhjalik käsitlus Wall Streeti krahhist ja ka John Grishami värske põnevik.",
-          "link": "https://pmo.ee/8549032",
-          "published": "Sat, 19 Sep 2026 16:30:00 +0300"
-        },
-        {
-          "outlet": "Postimees",
-          "lang": "et",
-          "title": "GALERII ⟩ Palamusel toimus 27. korda Suur Paunvere Väljanäitus ja Laat",
-          "summary": "19. septembril toimus Palamusel juba 27. korda Eesti üks suurim sügisene rahvasündmus, traditsiooniline Paunvere suur väljanäitus ja laat. Rõhuasetus oli taas kodumaisel ja mahedal toodangul, eriti tõsteti esile Palamuse kandi tooteid. Pakuti kõike alates toidust ja taimedest kun",
-          "link": "https://pmo.ee/8549062",
-          "published": "Sat, 19 Sep 2026 16:26:14 +0300"
         },
         {
           "outlet": "Õhtuleht",
